@@ -12,7 +12,9 @@
 
 https://naver.com
 
+```
 let myName="meanzhu";
-function test(){
+  function test(){
   console.log("hello");
 }
+```
